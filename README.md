@@ -10,6 +10,6 @@ This repository contains an image classification project using the CIFAR-10 and 
 
 ## Acknowledgements
 - [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [15 Scene Dataset](http://www-cvr.ai.uiuc.edu/ponce_grp/data/)
+- [15 Scene Dataset](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177?file=12855452)
 
 
